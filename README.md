@@ -44,7 +44,7 @@ openjdk version "1.8.0_252"
 OpenJDK Runtime Environment (build 1.8.0_252-8u252-b09-1ubuntu1-b09)
 OpenJDK 64-Bit Server VM (build 25.252-b09, mixed mode)
 ```
-Setup JAVA_HOME and JRE_HOME variables:
+Setup `JAVA_HOME` and `JRE_HOME` variables:
 ```
 cat >> /etc/environment <<EOL
 JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
